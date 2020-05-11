@@ -1,7 +1,8 @@
 ---
-title: Sejam bem vindos ao meu Site
-subtitle: Nele disponibilizo meus materiais de aula e dicas sobre o mundo Linux e Python.
+title: Bulma Clean Theme
+subtitle: This is the demo site for Bulma Clean Theme
 layout: page
+callouts: home_callouts
 show_sidebar: true
 ---
 
